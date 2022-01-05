@@ -1,14 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+
 /* || HEADER AND FOOTER STYLES */
 
 .headerStyle, .footerStyle {
-    background-color: rgba(0, 0, 0, 1);
+    background-color: rgb(83, 83, 83);
     padding-top: 25px;
     padding-bottom: 25px;
-}
-
-.accountCircle {
-    float: right;
 }
 
 .footerStyle {
